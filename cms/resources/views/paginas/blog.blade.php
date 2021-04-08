@@ -124,7 +124,7 @@
                          }
                         
                         @endphp
-                        <input type="text" name="palabras_claves"  class="form-control" value="{{$palabras_claves }}" required>
+                        <input type="text" name="palabras_claves"  class="form-control" value="{{$palabras_claves }}" data-role="tagsinput" required>
                        
 
                       </div>
